@@ -1,0 +1,10 @@
+[
+  { "url":"1.wav","type":"audio","bank":"inicio","n":0},
+  { "url":"2.wav","type":"audio","bank":"inicio","n":1},
+  { "url":"3.wav","type":"audio","bank":"inicio","n":2},
+  { "url":"4.wav","type":"audio","bank":"inicio","n":3},
+  { "url":"5.wav","type":"audio","bank":"inicio","n":4},
+  { "url":"6.wav","type":"audio","bank":"inicio","n":5},
+  { "url":"7.wav","type":"audio","bank":"inicio","n":6},
+  { "url":"8.wav","type":"audio","bank":"inicio","n":7},
+]
