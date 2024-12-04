@@ -1,4 +1,4 @@
 # Artistainv
 Para pasar la materia
 
-[samples](audios/samples.json)
+[samples](audios/README.md)
